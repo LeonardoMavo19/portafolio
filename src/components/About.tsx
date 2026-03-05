@@ -33,7 +33,7 @@ export function About() {
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.2 }}
-              src="/assets/Foto.png" 
+              src="/portafolio/assets/Foto.png" 
               alt="Perfil" 
               className="relative z-10 w-full h-full object-cover rounded-full shadow-2xl"
             />

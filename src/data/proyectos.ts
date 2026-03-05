@@ -5,21 +5,21 @@ export const PROYECTOS: Proyecto[] = [
     id: "sagif",
     titulo: "Sistema automatizado para la gestión integral de fichas de activos (SAGIF)",
     descripcion: "Sistema integral para la gestión de fichas de activos empresariales con funcionalidades de registro, seguimiento y reportes.",
-    imagen: "/assets/Sagif.png",
+    imagen: "/portafolio/assets/Sagif.png",
     link: "#"
   },
   {
     id: "vento",
     titulo: "Vento - Sistema de Inventario y Facturación",
     descripcion: "Sistema integral para la gestión de inventario y facturación empresarial.",
-    imagen: "/assets/Vento.png",
+    imagen: "/portafolio/assets/Vento.png",
     link: "#"
   },
   {
     id: "la-carte",
     titulo: "La Carte - Menú Digital Interactivo",
     descripcion: "Desarrollo de una aplicación móvil llamada 'La Carte' que permitirá a los usuarios visualizar menús digitales interactivos de restaurantes, y obtener recomendaciones personalizadas.",
-    imagen: "/assets/La_carte.jpeg",
+    imagen: "/portafolio/assets/La_carte.jpeg",
     link: "#"
   }
 ];
