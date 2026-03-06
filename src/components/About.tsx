@@ -125,13 +125,16 @@ export function About() {
             >
               Contrátame
             </motion.a>
-            <motion.button 
+            <motion.a 
+              href="/portafolio/CV-Leonardo-Mavo.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               whileHover={{ scale: 1.05, borderColor: '#4A67AF' }}
               whileTap={{ scale: 0.98 }}
-              className="px-10 py-3 rounded text-white font-bold uppercase tracking-wider border-2 border-[#2C417A] transition-colors"
+              className="px-10 py-3 rounded text-white font-bold uppercase tracking-wider border-2 border-[#2C417A] transition-colors cursor-pointer"
             >
               Currículum
-            </motion.button>
+            </motion.a>
           </motion.div>
         </motion.div>
       </div>
