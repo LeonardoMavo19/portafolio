@@ -1,9 +1,0 @@
-export { Navbar } from './Navbar';
-export { Hero } from './Hero';
-export { About } from './About';
-export { Portfolio } from './Portfolio';
-export { Services } from './Services';
-export { Experience } from './Experience';
-export { Contact } from './Contact';
-export { ProjectDetail } from './ProjectDetail';
-export { FadeIn } from './FadeIn';
